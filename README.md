@@ -1,2 +1,2 @@
 # hello-world
-this will say hello word
+my name is roc barone and I am a computer science student
